@@ -1,0 +1,114 @@
+    body{
+        background-image: url(/close-up-image-programer-working-his-desk-office.jpg);
+        position: repeat;
+        background-color: black;
+        margin: 0px;
+    }    
+    
+    #navZone :hover{
+        background: green;
+    }
+
+
+    .nav-links{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        z-index: 1;
+        position:relative;       
+
+        
+    }    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    li{
+        list-style:none;
+        padding: 20px;
+        color: rgb(255, 255, 255);
+        
+    }
+
+    li :hover{
+        background-color:
+       
+    }
+
+    .hero{
+        display: flex;
+        align-items: center;
+        background-color: white;
+    }
+
+    .hero{
+        padding: 100px 50px 100px 50px;
+
+    }
+    .left{
+        width: 50%;
+    }
+
+    .leftHero{
+        display: flex;
+        justify-content: center;
+    }
+
+    .rightHero{
+        display: flex;
+        justify-content: center;
+    }
+    .rightHeroContact{
+        display: flex;
+        justify-content: left;
+        padding-left: 50px
+    }
+
+    .heroImage{
+        width: 50%;
+        
+        
+    }
+
+    .heroForm{
+        border: 1px solid rgb(197, 197, 197);
+        padding: 50px;
+    }
+
+    button{
+        padding: 10px, 50px, 10px 50px;
+        color: white;
+        background-color: blue;
+    }
+
+    .inps{
+        padding-left: 50px;
+        padding:30p;
+    }
+
+    .email{
+        padding-left: 50px;
+    }
+
+    .password{
+        padding-left:20px;
+    }
+
+    .inps{
+        padding: 10px;
+        border: 1px solid rgb(228, 228, 228);;
+    }
+
+
+
+    h1{
+        font-size: 3rem;
+        line-height: 2rem;
+
+    }
+
+    p{
+        font-size: 1.1rem;
+        line-height: 2rem;
+
+    }

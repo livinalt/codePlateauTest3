@@ -1,0 +1,33 @@
+Answers:
+
+3. HTML stands for HyperText Markup Language
+
+4. The img tag is used to add images to a webpage.
+
+
+
+
+Questions.
+
+1. Create an HTML file and in it, create a navigation bar with a list of five <ul> and give them whatever name.
+
+2. Make each of the <ul> to be a link to another page and embed an image in each of them as a background image. 
+
+3. Place the <ul> in a div and give them a backgrounf color of your choice.
+
+3. What does HTML stand for, and what is its primary purpose?
+
+4. What is the purpose of the <img> tag in HTML, and how do you use it to display an image?
+
+5. Create an HTML form that includes a text input field, a password input field, and a submit button.
+
+6. Build a simple function in JavaScript that takes two arguments (numbers) and returns their product.
+
+7. Write JavaScript code that changes the background color of the navigation bar when the mouse hovers over the bar menu.
+
+8. Write JavaScript code that displays an alert with the message "Hello, World!" when a sign-up button is clicked.
+
+10. Create an array of five numbers and write JavaScript to find the sum of these numbers.
+
+11. Using the for loop, iterate over an array of 10 elements and return each element as long as i is less than the length of the array.
+
